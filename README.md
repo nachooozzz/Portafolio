@@ -7,9 +7,12 @@ Generar mayor visibilidad y orden de mis trabajos y creaciones en diferentes ár
 
 La propuesta está dirigida para los siguientes usuarios:
 
-Extremo 1: Mujer de 
-Extremo 2:
-Más probable:
+Extremo 1: Mujer mayor que sin mucho dominio de páginas web.
+
+![image](https://github.com/nachooozzz/ialarcon/blob/main/img/extremo1.png?raw=true)
+
+Extremo 2: Adolescente que utiliza mucho Pinterest.
+Más probable: Emprendedora que busca potenciar su negocio.
 
 ### ¿Qué existe que es similar a la propuesta?
 
